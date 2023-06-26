@@ -42,7 +42,7 @@ And the digit mapping:
 
 | Name   | Description                               | Default value |
 | ------ | ----------------------------------------- | ------------- |
-| common | The common pin: "cathode" or "anode"      | "anode"       |
+| common | The common pin: "cathode" or "cathode"      | "cathode"       |
 | digits | Number of digits: "1", "2", "3" or "4"    | "1"           |
 | colon  | Set to "1" to show the colon (clock mode) | ""            |
 | color  | The color of the segment LEDs             | "red"         |
